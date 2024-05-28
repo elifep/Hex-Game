@@ -13,9 +13,9 @@ Grafiksel arayüz ve animasyonlar.
 Projeyi çalıştırmak için JavaFX'in kurulu olduğundan emin olun. JavaFX kütüphanelerini proje yapılandırmanıza ekleyin.
 Projeyi Kopyalayın:
 
-bash
-Kodu kopyala
+## Kodu kopyala
 git clone https://github.com/elifep/Hex-Game.git
+
 cd HexGame
 
 ## Projeyi IntelliJ IDEA ile Açın:
